@@ -489,9 +489,9 @@ padding: 2rem 1rem;
     
  }
 
-.size-wrapper input[type=radio]{
-
-    display:none;
+.size-wrapper input[type=radio]
+{
+display:none;
  }
  .size-wrapper span{
      font-size: .8rem;
